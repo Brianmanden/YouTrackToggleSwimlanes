@@ -7,3 +7,5 @@ javascript:(function(){document.querySelectorAll(".yt-agile-table__row-title__su
 ```
 3. Navigate to your YouTrack board
 4. Click the bookmark and the swimlanes should toggle open/closed state
+
+![toogleSwimlanes01](https://github.com/user-attachments/assets/65c681c6-8818-4c42-a645-c4d9f9863b2b)
